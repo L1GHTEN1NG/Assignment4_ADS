@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class Vertex <V>{ //класс для вершины
     private V data; //значения для вершины
     private Map<Vertex<V>, Double> adjacentVertices; //карта смежных вершин с их значениями

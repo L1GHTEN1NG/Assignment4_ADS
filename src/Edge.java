@@ -9,6 +9,11 @@ public class Edge <Vertex>{ //класс ребра
         this.weight = weight;
     }
 
+    public Edge(Vertex source, Vertex dest) { //тот же самый, только для ребер без значения
+        this.source = source;
+        this.dest = dest;
+    }
+
     //сеттеры
     public void setSource(Vertex source){
         this.source = source;
