@@ -27,4 +27,8 @@ public class Vertex <V>{ //класс для вершины
     public Map<Vertex<V>, Double> getAdjacentVertices() {
         return adjacentVertices;
     }
+
+    public Edge<V> getDest() {
+        return (Vertex<V>) edge.getDest();
+    }
 }

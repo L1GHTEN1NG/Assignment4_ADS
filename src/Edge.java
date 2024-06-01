@@ -1,4 +1,4 @@
-public class Edge <Vertex>{ //класс ребра
+public class Edge <Vertex> extends Vertex { //класс ребра
     private Vertex source; //точка А (пункт выхода)
     private Vertex dest;  //точка В (пункт начначения)
     private Double weight; //определенное значение в ребре (то есть, его вес)
