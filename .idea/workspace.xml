@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717193253245</updated>
-      <workItem from="1717193254691" duration="2399000" />
+      <workItem from="1717193254691" duration="3374000" />
     </task>
     <task id="LOCAL-00001" summary="Edge Class">
       <option name="closed" value="true" />
@@ -69,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717200505680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Edge Class">
+      <option name="closed" value="true" />
+      <created>1717200587269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717200587269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
